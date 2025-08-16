@@ -1,4 +1,5 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll! 
+#Test the modification
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +10,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Yuanzhe Li's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
