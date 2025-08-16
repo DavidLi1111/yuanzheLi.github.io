@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
