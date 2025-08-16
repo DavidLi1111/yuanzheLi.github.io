@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "life_photo.jpg"
+  avatar           : "neimeng.jpg"
   name             : "Yuanzhe Li"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at U of A"
