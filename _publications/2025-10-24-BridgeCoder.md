@@ -5,7 +5,7 @@ category: conferences
 # permalink: _publications/2024-10-24-BridgeCoder
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2024-10-24
-venue: 'ACL Findings 2025'
+venue: 'ACL Findings'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2410.18957'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
