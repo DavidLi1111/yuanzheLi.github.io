@@ -23,7 +23,7 @@ Education
 
 [Southern University of Science and Technology](https://www.sustech.edu.cn/)
 
-- **Bachelor of Data Science and Big Data Technology**
+- **B.S. in Data Science and Big Data Technology**
 - *Sept. 2021 – Jun. 2025*
 - Advisor: [Prof. Peng Yang](https://cse.sustech.edu.cn/faculty/~yangp/)
 
