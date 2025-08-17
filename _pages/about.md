@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yuanzhe! Currently, I am working on Large Language Models (LLM), specifically on Agents. Todays’ LLMs are often extremely computation-expensive and difficult to control, which limits theirs usefulness. To make them user-friendly and accessible to more individuals and organizations, my research focus on: (1) make them better API’s for various realistic problems; (2) build smaller but more specificalized LLM expert; (3) incorporate various input signals to them like image and video.
+Hello, I am Yuanzhe! My research interest is Large Language Models (LLM). Currently, I am working on LLM Agents. Previously, I have research experience on the code generation of LLMs and financial time series pattern, effectively transfer the capability from high-resource programming languages to low-resource programming languages and use the Transformer-based autoencoder to effectively capture the information in Limit Order Book.
 
-I am an Ph.D. student of Eletrical and Computer Engineer at University of Arizona. I am affliated to Reconfigurable Efficient Intellgence Group.
+Now, I am a Ph.D. student of Electrical and Computer Engineer at University of Arizona. I am affliated with Reconfigurable Efficient Intellgence Group.
 
 
 Education
