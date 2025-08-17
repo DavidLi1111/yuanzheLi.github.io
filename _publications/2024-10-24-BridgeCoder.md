@@ -1,10 +1,10 @@
 ---
 title: "Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code"
 collection: publications
-category: manuscripts
-permalink: _publications/2024-10-24-BridgeCoder
+category: conferences
+# permalink: _publications/2024-10-24-BridgeCoder
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024-10-24
+# date: 2024-10-24
 venue: 'ACL Findings 2025'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2410.18957'
