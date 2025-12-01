@@ -27,6 +27,17 @@ Education
 - *Sept. 2021 – Jun. 2025*
 - Advisor: [Prof. Peng Yang](https://cse.sustech.edu.cn/faculty/~yangp/)
 
+## Selected Publications
+
+- **Bridge-Coder: Unlocking LLMs’ Potential to Overcome Language Gaps in Low-Resource Code**  
+  *ACL Findings, 2025*  
+  [Paper](https://arxiv.org/pdf/2410.18957)
+
+- **SimLOB: Learning Representations of Limit Order Book for Financial Market Simulation**  
+  *IEEE Transactions on Artificial Intelligence, 2025*  
+  [Paper](/files/simlob.pdf)
+
+
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
