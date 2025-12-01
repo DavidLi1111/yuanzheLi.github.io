@@ -30,12 +30,17 @@ Education
 ## Selected Publications
 
 - **Bridge-Coder: Unlocking LLMs’ Potential to Overcome Language Gaps in Low-Resource Code**  
+  Jipeng Zhang\*, Jianshu Zhang\*, **Yuanzhe Li\***, Renjie Pi, Rui Pan, Runtao Liu, Ziqiang Zheng, Tong Zhang  
   *ACL Findings, 2025*  
-  [Paper](https://arxiv.org/pdf/2410.18957)
+  [Paper](https://arxiv.org/pdf/2410.18957)  
+  (\* denotes equal contribution)
 
 - **SimLOB: Learning Representations of Limit Order Book for Financial Market Simulation**  
+  **Yuanzhe Li\***, Yue Wu\*, Muyao Zhong, Shengcai Liu, Peng Yang  
   *IEEE Transactions on Artificial Intelligence, 2025*  
-  [Paper](/files/simlob.pdf)
+  [Paper](/files/simlob.pdf)  
+  (\* denotes equal contribution)
+
 
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
