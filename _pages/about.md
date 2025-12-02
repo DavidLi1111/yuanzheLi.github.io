@@ -15,13 +15,13 @@ Now, I’m a Ph.D. student in Electrical and Computer Engineering at the Univers
 Education
 ======
 
-[University of Arizona]
+University of Arizona
 
 - **Ph.D. Student in Electrical and Computer Engineering**
 - *Sept. 2025 – Present*
 - Advisor: [Prof. Huanrui Yang](https://sites.google.com/view/huanrui-yang)
 
-[Southern University of Science and Technology]
+Southern University of Science and Technology
 
 - **B.S. in Data Science and Big Data Technology**
 - *Sept. 2021 – Jun. 2025*
