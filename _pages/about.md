@@ -27,7 +27,7 @@ Southern University of Science and Technology
 - *Sept. 2021 – Jun. 2025*
 - Advisor: [Prof. Peng Yang](https://cse.sustech.edu.cn/faculty/~yangp/)
 
-## Selected Publications
+## Publications
 
 - **Bridge-Coder: Unlocking LLMs’ Potential to Overcome Language Gaps in Low-Resource Code**  
   Jipeng Zhang\*, Jianshu Zhang\*, **Yuanzhe Li\***, Renjie Pi, Rui Pan, Runtao Liu, Ziqiang Zheng, Tong Zhang  
@@ -40,6 +40,12 @@ Southern University of Science and Technology
   *IEEE Transactions on Artificial Intelligence, 2025*  
   [Paper](/files/simlob.pdf)  
   (\* denotes equal contribution)
+  
+- **Dynamic Mix Precision Routing for Efficient Multi-step LLM Interaction**  
+  **Yuanzhe Li**, Jianing Deng, Jingtong Hu, Tianlong Chen, Song Wang, Huanrui Yang  
+  *arXiv preprint, 2026*  
+  [Paper](https://arxiv.org/abs/2602.02711)
+
 
 
 
