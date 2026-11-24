@@ -13,7 +13,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yuanzhe Li's Homepage"
 title_separator          : "-"
 name                     : &name "Yuanzhe Li"
-description              : &description "personal description"
+description              : &description "Yuanzhe Li, Ph.D. student at the University of Arizona working on efficient LLMs and model compression"
 url                      : https://davidli1111.github.io/yuanzheLi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -26,8 +26,8 @@ author:
   avatar           : "neimeng.jpg"
   name             : "Yuanzhe Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at U of A"
-  location         : "1200E University Blvd, Tucson,AZ"
+  bio              : "Ph.D. student @ UArizona · Efficient LLMs & Model Compression"
+  location         : "Tucson, AZ"
   employer         : "University of Arizona"
   uri              : # URL
   email            : "yuanzheli@arizona.edu" 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  # github           : "academicpages"
+  github           : "DavidLi1111"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yuanzhe-li-440aa3336"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,7 +82,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Preprints'
+    title: 'Preprints / Under Review'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
